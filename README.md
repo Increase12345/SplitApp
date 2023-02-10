@@ -1,60 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-
-<title>Modern Studio </title>
-
-
-
-<style>
-.image {
-display: inline-block;
-}
-
-</style>
-
-</head>
-
-<body>
-   <div id="banner" style="overflow: hidden; display: inline-block;">
-        <div class="image" style="max-width: 20%; max-height: 20%;">
-            <img src ="https://i.ibb.co/7zC5cQ8/Screenshot-2023-02-09-at-6-09-49-PM.png">
-        </div>
-
-        <div class="image" style="max-width: 100%; max-height: 100%;">
-            <img src ="https://i.ibb.co/vV557Tf/Screenshot-2023-02-09-at-6-09-07-PM.png">
-        </div>
-
-        <div class="image" style="max-width: 20%; max-height: 20%;">
-            <img src ="https://i.ibb.co/CmJG1Tz/Screenshot-2023-02-09-at-6-08-29-PM.png">
-        </div>
-    </div>
-
-
-    </body>
-</html>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <h1 align="center">Split App 💸</h1>
 <h3 align="center">This app will help you to split the check with your friends at anytime 😇</h3>
 
 
-<img width="100" src="https://i.ibb.co/7zC5cQ8/Screenshot-2023-02-09-at-6-09-49-PM.png">
-<img width="100" src="https://i.ibb.co/vV557Tf/Screenshot-2023-02-09-at-6-09-07-PM.png">
-<img width="100" src="https://i.ibb.co/CmJG1Tz/Screenshot-2023-02-09-at-6-08-29-PM.png">
+<img align="left" width="100" src="https://i.ibb.co/7zC5cQ8/Screenshot-2023-02-09-at-6-09-49-PM.png">
+<img align="center" width="100" src="https://i.ibb.co/vV557Tf/Screenshot-2023-02-09-at-6-09-07-PM.png">
+<img align="right" width="100" src="https://i.ibb.co/CmJG1Tz/Screenshot-2023-02-09-at-6-08-29-PM.png">
 
 
 
